@@ -77,5 +77,5 @@ export default function App() {
         </motion.div>
       </div>
     </div>
-    )
+  );
 }
